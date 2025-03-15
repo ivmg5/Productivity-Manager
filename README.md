@@ -12,7 +12,7 @@ Oracle's software development team aims to enhance productivity and visibility o
   - Ensures secure communication using Oracle Cloud Infrastructure.  
 - **Technologies used:**  
   - **Infrastructure:** Oracle Cloud Infrastructure, Oracle Autonomous Database, Kubernetes, Docker, REST API, Telegram.  
-  - **Development:** Java, Microservices, Spring Boot, API Gateway, OCI Container Registry.  
+  - **Development:** Java, Microservices, Spring Boot, API Gateway, OCI Container Registry, React JS.
   - **Operations:** CI/CD automation, infrastructure provisioning via Infrastructure as Code.  
 
 [![Build Status](https://img.shields.io/badge/status-active-brightgreen)](#)  
