@@ -1,4 +1,4 @@
-# **Oracle Project Management Tool.**  
+# **Oracle Project Management Tool**  
 > *A cloud-native tool to improve software team productivity by 20% through task automation and KPI tracking.*
 
 ## **Introduction**  
@@ -13,7 +13,7 @@ Oracle's software development team aims to enhance productivity and visibility o
 - **Technologies used:**  
   - **Infrastructure:** Oracle Cloud Infrastructure, Oracle Autonomous Database, Kubernetes, Docker, REST API, Telegram.  
   - **Development:** Java, Microservices, Spring Boot, API Gateway, OCI Container Registry, React JS.
-  - **Operations:** CI/CD automation, infrastructure provisioning via Infrastructure as Code.  
+  - **Operations:** CI/CD automation, infrastructure provisioning via Infrastructure as Code.   
 
 [![Build Status](https://img.shields.io/badge/status-active-brightgreen)](#)  
 [![Code Coverage](https://img.shields.io/badge/coverage-5%25-yellowgreen)](#)  
